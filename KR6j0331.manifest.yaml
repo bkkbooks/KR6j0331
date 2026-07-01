@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR6j0331/v1
+canonical_location: https://kanripo.org/bkk/KR6j0331/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阿迦陀密一印千類千轉三使者成就經法
+  identifiers:
+    alt_id:
+    - X02n0190
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0190.xml
+    old_id: X02n0190
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0331_000.yaml, hash: 'sha256:15a5f07cdf58eef2c7323c87c92e36236f3cef04bec94f5eda6443659c75e884'}
+  - {seq: 1, filename: KR6j0331_001.yaml, hash: 'sha256:b3ca8bb4788930d4e9c3a16fac6772be71c63bebf7f2a7330b6ea11055a11db2'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0331_001.markers.yaml, hash: 'sha256:7d85a435cd6179e9f90628815830bdf3b714d720c6e1cf347f6f3064a99cfa6b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0331_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 711
+  label: '阿迦陀密一印千類千轉三使者成
+
+    就經法'
+  type: juan
+  level: 1
+hash: sha256:15b9d31fe0493e2e4f97dd4ef2f0cbbbfd0649de2a4a02941812b0fd14826866
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

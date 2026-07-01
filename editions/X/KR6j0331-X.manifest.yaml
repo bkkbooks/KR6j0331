@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0331/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0331/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿迦陀密一印千類千轉三使者成就經法
+  identifiers:
+    krp: KR6j0331
+    cbeta: X02n0190
+    cbeta_old_id: X02n0190
+    authorityid: CA0000006
+    json_key: X0190
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0190.xml
+    old_id: X02n0190
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0331_000-X.yaml, hash: 'sha256:15a5f07cdf58eef2c7323c87c92e36236f3cef04bec94f5eda6443659c75e884'}
+  - {seq: 1, filename: KR6j0331_001-X.yaml, hash: 'sha256:b3c6c0a0e5671ebb11a368934d404bc080748e62a9c074c4cc8b66039efe6a59'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0331_000-X.markers.yaml, hash: 'sha256:66007c978a912b5b8bcf19d10fdf71626d4ea337d37b28b64f9d513c02465496'}
+  - {seq: 1, role: markers, filename: assets/KR6j0331_001-X.markers.yaml, hash: 'sha256:17b77acbbb1e0e1617706b7ff01429ee1bc94f266213311b64163cd33b10310e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0331_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 711
+  label: '阿迦陀密一印千類千轉三使者成
+
+    就經法'
+  type: juan
+  level: 1
+hash: sha256:f53a51facd289945954bd51eefcb34aa154be3b4c7981d6ba74e2308b8002222

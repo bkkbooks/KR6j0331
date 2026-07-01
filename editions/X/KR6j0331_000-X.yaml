@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0331/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿迦陀密一印千類千轉三使者成就經法
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0190.xml
+    old_id: X02n0190
+hash: sha256:15a5f07cdf58eef2c7323c87c92e36236f3cef04bec94f5eda6443659c75e884
