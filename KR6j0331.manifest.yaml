@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0331/v1
 canonical_location: https://kanripo.org/bkk/KR6j0331/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 阿迦陀密一印千類千轉三使者成就經法
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0331_000.yaml, hash: 'sha256:15a5f07cdf58eef2c7323c87c92e36236f3cef04bec94f5eda6443659c75e884'}
-  - {seq: 1, filename: KR6j0331_001.yaml, hash: 'sha256:b3c6c0a0e5671ebb11a368934d404bc080748e62a9c074c4cc8b66039efe6a59'}
+  - {seq: 1, filename: KR6j0331_001.yaml, hash: 'sha256:fc833395b42c9f9e4c51afdebafa44df7bf2f776ebc06b0cde3fb6f5aec8a8cf'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0331_000.markers.yaml, hash: 'sha256:0ee2a35b0a84c0c0fae1dd7bd3f32d29042b468f20de3c43cd6c3c67fa8dd432'}
-  - {seq: 1, role: markers, filename: assets/KR6j0331_001.markers.yaml, hash: 'sha256:a0ab22ce2d1d9ba54cee0dd3360a8889eb3259605a01aeb47d59a512c73bce46'}
+  - {seq: 1, role: markers, filename: assets/KR6j0331_001.markers.yaml, hash: 'sha256:89e277fb0eaa355e856ccdeb4cc22c72967f342c43b242963ce7a3e768750edf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     就經法'
   type: juan
   level: 1
-hash: sha256:8330bad211f4d4bfbbe29072175b41bbfb7047b41a07b52d0a8ed1e41033d7aa
+hash: sha256:e82403eb32364d1cd59ce853136578a9ea35ae2d36d76cf3e85065d179a20c71
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
